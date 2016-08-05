@@ -1,0 +1,29 @@
+_repo: The-Life-of-Samuel-Taylor-Coleridge1838_8957
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gillman, James
+    birthdate: 1782
+    deathdate: 1839
+    gutenberg_agent_id: '2943'
+    url: http://www.gutenberg.org/2009/agents/2943
+description: No more published; the author collected material for a second volume,
+  but destroyed it before his death.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Critics -- Great Britain -- Biography'
+- !lcsh 'Coleridge, Samuel Taylor, 1772-1834'
+- !lcc 'PR'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- GITenberg
+title: 'The Life of Samuel Taylor Coleridge
+
+  1838'
+url: http://www.gutenberg.org/ebooks/8957
